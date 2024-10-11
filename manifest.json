@@ -1,0 +1,15 @@
+{
+  "name": "Github",
+  "id": "1411012324845365214",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "permissions": ["currentuser"],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://api.github.com"
+    ]
+  }
+}
